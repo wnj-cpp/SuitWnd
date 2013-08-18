@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1356864252 source:e:\学习\编程\c++\codeblocks\suitwnd\main.cpp
+	<windows.h>
+	"stdafx.h"
+	"resource.h"
+
+1356791964 e:\学习\编程\c++\codeblocks\suitwnd\resource.h
+
+1356794940 source:e:\学习\编程\c++\codeblocks\suitwnd\resource.rc
+	"resource.h"
+
+1356794314 e:\学习\编程\c++\codeblocks\suitwnd\stdafx.h
+

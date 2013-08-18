@@ -1,0 +1,17 @@
+#include "resource.h"
+
+// rc /n /v /fo Hello.res Hello.rc
+
+IDI_MWIND ICON "res\\C.ico"
+//
+// Bitmap
+//
+
+//IDR_MAINFRAME           BITMAP                  "res\\Toolbar.bmp"
+//ID_TOOLBAR_EDITING      BITMAP                  "res\\id_toolb.bmp"
+
+STRINGTABLE
+BEGIN
+   IDC_MWIND   "W_MAIN"
+   IDS_APP_TITLE       "SHEEP"
+END
